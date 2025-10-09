@@ -2,7 +2,7 @@
 
 A FiveM resource for **ESX 1.7.5** that allows staff members to change into special ped models using a clean **ox_lib** menu.  
 Supports both **Badger_Discord_API** (for Discord role-based permissions) and **ACE permissions** from your `server.cfg`.  
-Includes optional Discord logging through a server-side webhook.
+Includes optional Discord logging 
 
 ---
 
