@@ -2,7 +2,7 @@ ESX = exports["es_extended"]:getSharedObject()
 local DiscordAPI = exports["Badger_Discord_API"]
 
 
-local discordWebhook = "https://discord.com/api/webhooks/1425520807861289032/5LoX7q-FdmHiVJVAk8hU3RirtIQaFN1CqDVSAvzH3nbBkJjvJAP0vc-Jh7xvq-_e-6St"
+local discordWebhook = "😉"
 
 
 RegisterCommand(Config.Command, function(source)
@@ -68,3 +68,4 @@ function SendToDiscord(title, message, color)
         embeds = embed
     }), { ['Content-Type'] = 'application/json' })
 end
+
